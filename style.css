@@ -73,6 +73,21 @@ section {
 
 }
 
+.foot-1 {
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.foot-2 {
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+.foot-3 {
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
 .other-width-extra {
     width: 150%;
     padding: 0px -300px;
@@ -82,7 +97,7 @@ section {
 
 
 .card-section {
-    margin-left: 15%;
+    margin-left: 20%;
     box-shadow: 10px 10px 40px gray;
 
 }
