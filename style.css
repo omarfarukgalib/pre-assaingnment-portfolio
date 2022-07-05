@@ -1,0 +1,11 @@
+.orange-color {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 20px;
+    padding: 10px 20px;
+}
