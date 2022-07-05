@@ -17,10 +17,38 @@ section {
 .half-width {
     width: 50%;
     padding: 5%;
+
+}
+
+.extra-div {
+    margin-left: -30%;
+    margin-top: 5%;
+}
+
+.apa {
+    padding: 0px 100px;
+
+    width: 40%;
+
+
 }
 
 .half-width img {
     width: 40%;
     margin-top: -5%;
-    margin-left: -25%;
+    margin-left: -0%;
+
+}
+
+.banner-img {
+    background-image: url("images/shapes/7.png");
+}
+
+.recepie {
+    text-align: center;
+}
+
+.lorem {
+    text-align: justify;
+    padding: 0px 300px;
 }
