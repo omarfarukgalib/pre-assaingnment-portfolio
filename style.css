@@ -52,3 +52,41 @@ section {
     text-align: justify;
     padding: 0px 300px;
 }
+
+.full-width {
+    margin-top: 220px;
+    margin-left: -550px;
+    text-align: justify;
+}
+
+.full-width-extra {
+    margin-top: 220px;
+    margin-left: -550px;
+    text-align: justify;
+}
+
+.other-width {
+    width: 150%;
+    padding: 0px -300px;
+    margin-top: 40px;
+
+
+}
+
+.other-width-extra {
+    width: 150%;
+    padding: 0px -300px;
+    margin-top: 40px;
+
+}
+
+
+.card-section {
+    margin-left: 15%;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+.ex-lorem {
+    margin-right: 60%;
+}
